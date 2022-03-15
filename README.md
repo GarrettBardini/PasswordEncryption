@@ -5,4 +5,4 @@ The purpose of this python script is to store an encrypted text file in a design
 This is not a secure method. This is an example for educational purposes. Please use a password manager.  
 
 ## Requirements ## 
-Pandas: ```pip install cryptography```
+Cryptography: ```pip install cryptography```
